@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "GestPornub",
+    "slug": "GestPornub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-mobile.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/logo-small.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "scheme": "gestpornub",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.jsm.sorabest",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#0D254A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logo-small.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
