@@ -12,7 +12,9 @@
       "backgroundColor": "#ffffff"
     },
     "scheme": "gestpornub",
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -29,6 +31,11 @@
     "plugins": [
       "expo-router",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a33717f4-aa96-4baf-a93d-5fc7a152a479"
+      }
+    }
   }
 }

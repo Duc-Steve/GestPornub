@@ -49,7 +49,7 @@ const Welcome = () => {
           </View>
 
           <Text className="text-sm font-pregular text-gray-100 mt-7 text-center">
-            Apprenez à bien mougou c'est très important dans la vie !!!
+            Apprenez à bien mougou c'est très important pour la vie de votre foyer!!!
             
           </Text>
 
